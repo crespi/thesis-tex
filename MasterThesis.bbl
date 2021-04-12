@@ -1,0 +1,410 @@
+\begin{thebibliography}{10}
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{\texttt{#1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+\providecommand{\bibinfo}[2]{#2}
+\providecommand{\eprint}[2][]{\url{#2}}
+
+\bibitem{Raja2018-mr}
+\bibinfo{author}{Raja, R.} \& \bibinfo{author}{Nagasubramani, P.~C.}
+\newblock \bibinfo{title}{Impact of modern technology in education}.
+\newblock \emph{\bibinfo{journal}{J. Appl. Adv. Res.}}
+  \textbf{\bibinfo{volume}{3}}, \bibinfo{pages}{33} (\bibinfo{year}{2018}).
+
+\bibitem{Wasson2020-lq}
+\bibinfo{author}{Wasson, B.} \& \bibinfo{author}{Kirschner, P.~A.}
+\newblock \bibinfo{title}{Learning design: European approaches}.
+\newblock \emph{\bibinfo{journal}{TechTrends}} \textbf{\bibinfo{volume}{64}},
+  \bibinfo{pages}{815--827} (\bibinfo{year}{2020}).
+
+\bibitem{Prieto2015-gd}
+\bibinfo{author}{Prieto, L.~P.}, \bibinfo{author}{Sharma, K.} \&
+  \bibinfo{author}{Dillenbourg, P.}
+\newblock \bibinfo{title}{Studying teacher orchestration load in
+  technology-enhanced classrooms}.
+\newblock In \emph{\bibinfo{booktitle}{Design for Teaching and Learning in a
+  Networked World}}, \bibinfo{pages}{268--281} (\bibinfo{publisher}{Springer
+  International Publishing}, \bibinfo{address}{Cham}, \bibinfo{year}{2015}).
+
+\bibitem{Persico2015-hp}
+\bibinfo{author}{Persico, D.} \& \bibinfo{author}{Pozzi, F.}
+\newblock \bibinfo{title}{Informing learning design with learning analytics to
+  improve teacher inquiry: Informing {LD} with {LA} to improve teacher
+  inquiry}.
+\newblock \emph{\bibinfo{journal}{Br. J. Educ. Technol.}}
+  \textbf{\bibinfo{volume}{46}}, \bibinfo{pages}{230--248}
+  (\bibinfo{year}{2015}).
+
+\bibitem{Hernandez-Leo2011-qa}
+\bibinfo{author}{Hern{\'a}ndez-Leo, D.} \emph{et~al.}
+\newblock \bibinfo{title}{{LdShake}: Learning design solutions sharing and
+  co-edition}.
+\newblock \emph{\bibinfo{journal}{Comput. Educ.}}
+  \textbf{\bibinfo{volume}{57}}, \bibinfo{pages}{2249--2260}
+  (\bibinfo{year}{2011}).
+
+\bibitem{Emin2010-dv}
+\bibinfo{author}{Emin, V.}, \bibinfo{author}{Pernin, J.-P.} \&
+  \bibinfo{author}{Aguirre, J.~L.}
+\newblock \bibinfo{title}{{ScenEdit}: An intention-oriented authoring
+  environnment to design learning scenarios}.
+\newblock In \emph{\bibinfo{booktitle}{Sustaining {TEL}: From Innovation to
+  Learning and Practice}}, \bibinfo{pages}{626--631}
+  (\bibinfo{publisher}{Springer Berlin Heidelberg}, \bibinfo{address}{Berlin,
+  Heidelberg}, \bibinfo{year}{2010}).
+
+\bibitem{perraton_1981}
+\bibinfo{author}{Perraton, H.}
+\newblock \bibinfo{title}{A theory for distance education}.
+\newblock \emph{\bibinfo{journal}{Prospects}} \textbf{\bibinfo{volume}{11}},
+  \bibinfo{pages}{13–24} (\bibinfo{year}{1981}).
+
+\bibitem{keegan_1988}
+\bibinfo{author}{Keegan, D.}
+\newblock \bibinfo{title}{Concepts: Problems in defining the field of distance
+  education}.
+\newblock \emph{\bibinfo{journal}{American Journal of Distance Education}}
+  \textbf{\bibinfo{volume}{2}}, \bibinfo{pages}{4–11} (\bibinfo{year}{1988}).
+
+\bibitem{garrison_shale_1987}
+\bibinfo{author}{Garrison, D.~R.} \& \bibinfo{author}{Shale, D.}
+\newblock \bibinfo{title}{Mapping the boundaries of distance education:
+  Problems in defining the field}.
+\newblock \emph{\bibinfo{journal}{American Journal of Distance Education}}
+  \textbf{\bibinfo{volume}{1}}, \bibinfo{pages}{7–13} (\bibinfo{year}{1987}).
+
+\bibitem{cuendet_2013}
+\bibinfo{author}{Cuendet, S.}, \bibinfo{author}{Bonnard, Q.},
+  \bibinfo{author}{Do-Lenh, S.} \& \bibinfo{author}{Dillenbourg, P.}
+\newblock \bibinfo{title}{Designing augmented reality for the classroom}.
+\newblock \emph{\bibinfo{journal}{Computers, Education}}
+  \textbf{\bibinfo{volume}{68}}, \bibinfo{pages}{557–569}
+  (\bibinfo{year}{2013}).
+
+\bibitem{holden_rada_2011}
+\bibinfo{author}{Holden, H.} \& \bibinfo{author}{Rada, R.}
+\newblock \bibinfo{title}{Understanding the influence of perceived usability
+  and technology self-efficacy on teachers’ technology acceptance}.
+\newblock \emph{\bibinfo{journal}{Journal of Research on Technology in
+  Education}} \textbf{\bibinfo{volume}{43}}, \bibinfo{pages}{343–367}
+  (\bibinfo{year}{2011}).
+
+\bibitem{Schwendimann2017-ci}
+\bibinfo{author}{Schwendimann, B.~A.} \emph{et~al.}
+\newblock \bibinfo{title}{Perceiving learning at a glance: A systematic
+  literature review of learning dashboard research}.
+\newblock \emph{\bibinfo{journal}{IEEE trans. learn. technol.}}
+  \textbf{\bibinfo{volume}{10}}, \bibinfo{pages}{30--41}
+  (\bibinfo{year}{2017}).
+
+\bibitem{Fernandez2011-ln}
+\bibinfo{author}{Fernandez, A.}, \bibinfo{author}{Insfran, E.} \&
+  \bibinfo{author}{Abrah{\~a}o, S.}
+\newblock \bibinfo{title}{Usability evaluation methods for the web: A
+  systematic mapping study}.
+\newblock \emph{\bibinfo{journal}{Inf. Softw. Technol.}}
+  \textbf{\bibinfo{volume}{53}}, \bibinfo{pages}{789--817}
+  (\bibinfo{year}{2011}).
+
+\bibitem{Manathunga2016-gy}
+\bibinfo{author}{Manathunga, K.} \& \bibinfo{author}{Hern{\'a}ndez-Leo, D.}
+\newblock \bibinfo{title}{{PyramidApp}: Scalable method enabling collaboration
+  in the classroom}.
+\newblock In \emph{\bibinfo{booktitle}{Adaptive and Adaptable Learning}},
+  \bibinfo{pages}{422--427} (\bibinfo{publisher}{Springer International
+  Publishing}, \bibinfo{address}{Cham}, \bibinfo{year}{2016}).
+
+\bibitem{Dillenbourg2009-jl}
+\bibinfo{author}{Dillenbourg, P.}, \bibinfo{author}{J{\"a}rvel{\"a}, S.} \&
+  \bibinfo{author}{Fischer, F.}
+\newblock \bibinfo{title}{The evolution of research on computer-supported
+  collaborative learning}.
+\newblock In \emph{\bibinfo{booktitle}{{Technology-Enhanced} Learning}},
+  \bibinfo{pages}{3--19} (\bibinfo{publisher}{Springer Netherlands},
+  \bibinfo{address}{Dordrecht}, \bibinfo{year}{2009}).
+
+\bibitem{Bonwell1991-sl}
+\bibinfo{author}{Bonwell, C.~C.} \& \bibinfo{author}{Eison, J.~A.}
+\newblock \emph{\bibinfo{title}{Active learning 1991: Active learning
+  {Ashe-Eric/higher} education research report no. 1, v. 20}}
+  (\bibinfo{publisher}{George Washington University, Graduate School of
+  Education \& Human Development}, \bibinfo{address}{Washington, D.C., DC},
+  \bibinfo{year}{1991}).
+
+\bibitem{Jeong2019-ul}
+\bibinfo{author}{Jeong, H.}, \bibinfo{author}{Hmelo-Silver, C.~E.} \&
+  \bibinfo{author}{Jo, K.}
+\newblock \bibinfo{title}{Ten years of {Computer-Supported} collaborative
+  learning: A meta-analysis of {CSCL} in {STEM} education during 2005--2014}.
+\newblock \emph{\bibinfo{journal}{Educ. Res. Rev.}}
+  \textbf{\bibinfo{volume}{28}}, \bibinfo{pages}{100284}
+  (\bibinfo{year}{2019}).
+
+\bibitem{Kollar2006-lk}
+\bibinfo{author}{Kollar, I.}, \bibinfo{author}{Fischer, F.} \&
+  \bibinfo{author}{Hesse, F.~W.}
+\newblock \bibinfo{title}{Collaboration scripts -- a conceptual analysis}.
+\newblock \emph{\bibinfo{journal}{Educ. Psychol. Rev.}}
+  \textbf{\bibinfo{volume}{18}}, \bibinfo{pages}{159--185}
+  (\bibinfo{year}{2006}).
+
+\bibitem{Dillenbourg2013-kx}
+\bibinfo{author}{Dillenbourg, P.}
+\newblock \bibinfo{title}{Design for classroom orchestration}.
+\newblock \emph{\bibinfo{journal}{Comput. Educ.}}
+  \textbf{\bibinfo{volume}{69}}, \bibinfo{pages}{485--492}
+  (\bibinfo{year}{2013}).
+
+\bibitem{Dillenbourg2008-kt}
+\bibinfo{author}{Dillenbourg, P.} \& \bibinfo{author}{Hong, F.}
+\newblock \bibinfo{title}{The mechanics of {CSCL} macro scripts}.
+\newblock \emph{\bibinfo{journal}{Int. J. Comput. Support. Collab. Learn.}}
+  \textbf{\bibinfo{volume}{3}}, \bibinfo{pages}{5--23} (\bibinfo{year}{2008}).
+
+\bibitem{Hernandez-leo2006-lv}
+\bibinfo{author}{Hern{\'a}ndez-leo, D.},
+  \bibinfo{author}{Villasclaras-fern{\'a}ndez, E.~D.},
+  \bibinfo{author}{Asensio-p{\'e}rez, J.~I.}, \bibinfo{author}{Dimitriadis,
+  Y.~A.} \& \bibinfo{author}{Retalis, S.}
+\newblock \bibinfo{title}{S.: {CSCL} scripting patterns: Hierarchical
+  relationships and applicability}.
+\newblock In \emph{\bibinfo{booktitle}{In: Proceedings of the 6th {IEEE}
+  International Conference on Advanced Learning Technologies}}
+  (\bibinfo{year}{2006}).
+
+\bibitem{Davis_undated-sg}
+\bibinfo{author}{Davis, W.}
+\newblock \bibinfo{title}{A comparison of pyramids versus brainstorming in a
+  problem based learning environment}.
+\newblock
+  \bibinfo{howpublished}{\url{https://litec.curtin.edu.au/events/conferences/tlf/tlf2002/davisw.html}}
+  (\bibinfo{year}{2002}).
+\newblock \bibinfo{note}{Accessed: 2021-1-31}.
+
+\bibitem{Dillenbourg2011-zr}
+\bibinfo{author}{Dillenbourg, P.} \emph{et~al.}
+\newblock \bibinfo{title}{Classroom orchestration: The third circle of
+  usability}  (\bibinfo{year}{2011}).
+
+\bibitem{Kirschner2015-yg}
+\bibinfo{author}{Kirschner, P.~A.}
+\newblock \bibinfo{title}{Do we need teachers as designers of technology
+  enhanced learning?}
+\newblock \emph{\bibinfo{journal}{Instr. Sci.}} \textbf{\bibinfo{volume}{43}},
+  \bibinfo{pages}{309--322} (\bibinfo{year}{2015}).
+
+\bibitem{Siemens2012-nf}
+\bibinfo{author}{Siemens, G.} \& \bibinfo{author}{Ga{\v s}evi{\'c}, D.}
+\newblock \bibinfo{title}{Guest editorial - learning and knowledge analytics}.
+\newblock \emph{\bibinfo{journal}{J. Educ. Technol. Soc.}}
+  (\bibinfo{year}{2012}).
+
+\bibitem{Clow2013-ww}
+\bibinfo{author}{Clow, D.}
+\newblock \bibinfo{title}{An overview of learning analytics}.
+\newblock \emph{\bibinfo{journal}{Teach. High. Educ.}}
+  \textbf{\bibinfo{volume}{18}}, \bibinfo{pages}{683--695}
+  (\bibinfo{year}{2013}).
+
+\bibitem{Xhakaj_undated-xx}
+\bibinfo{author}{Xhakaj, F.}, \bibinfo{author}{Aleven, V.} \&
+  \bibinfo{author}{Mclaren, B.~M.}
+\newblock \bibinfo{title}{How teachers use data to help students learn:
+  Contextual inquiry for the design of a dashboard}.
+\newblock
+  \bibinfo{howpublished}{\url{https://www.researchgate.net/publication/307854469_How_Teachers_Use_Data_to_Help_Students_Learn_Contextual_Inquiry_for_the_Design_of_a_Dashboard}}.
+\newblock \bibinfo{note}{Accessed: 2021-1-31}.
+
+\bibitem{Jivet2018-nw}
+\bibinfo{author}{Jivet, I.}, \bibinfo{author}{Scheffel, M.},
+  \bibinfo{author}{Specht, M.} \& \bibinfo{author}{Drachsler, H.}
+\newblock \bibinfo{title}{License to evaluate: Preparing learning analytics
+  dashboards for educational practice}.
+\newblock In \emph{\bibinfo{booktitle}{Proceedings of the 8th International
+  Conference on Learning Analytics and Knowledge - {LAK} '18}}
+  (\bibinfo{publisher}{ACM Press}, \bibinfo{address}{New York, New York, USA},
+  \bibinfo{year}{2018}).
+
+\bibitem{Amarasinghe2020-wt}
+\bibinfo{author}{Amarasinghe, I.}, \bibinfo{author}{Vujovic, M.} \&
+  \bibinfo{author}{Hern{\'a}ndez~Leo, D.}
+\newblock \bibinfo{title}{Towards teacher orchestration load-aware
+  teacher-facing dashboards}.
+\newblock \emph{\bibinfo{journal}{CEUR Workshop Proc.}}
+  (\bibinfo{year}{2020}).
+
+\bibitem{Al-Fudail2008-zo}
+\bibinfo{author}{Al-Fudail, M.} \& \bibinfo{author}{Mellar, H.}
+\newblock \bibinfo{title}{Investigating teacher stress when using technology}.
+\newblock \emph{\bibinfo{journal}{Comput. Educ.}}
+  \textbf{\bibinfo{volume}{51}}, \bibinfo{pages}{1103--1110}
+  (\bibinfo{year}{2008}).
+
+\bibitem{Wang2005-nv}
+\bibinfo{author}{Wang, F.} \& \bibinfo{author}{Hannafin, M.~J.}
+\newblock \bibinfo{title}{Design-based research and technology-enhanced
+  learning environments}.
+\newblock \emph{\bibinfo{journal}{Educ. Technol. Res. Dev.}}
+  \textbf{\bibinfo{volume}{53}}, \bibinfo{pages}{5--23} (\bibinfo{year}{2005}).
+
+\bibitem{Prieto2018-vw}
+\bibinfo{author}{Prieto, L.~P.}, \bibinfo{author}{Sharma, K.},
+  \bibinfo{author}{Kidzinski, L.} \& \bibinfo{author}{Dillenbourg, P.}
+\newblock \bibinfo{title}{Orchestration load indicators and patterns:
+  In-the-wild studies using mobile eye-tracking}.
+\newblock \emph{\bibinfo{journal}{IEEE trans. learn. technol.}}
+  \textbf{\bibinfo{volume}{11}}, \bibinfo{pages}{216--229}
+  (\bibinfo{year}{2018}).
+
+\bibitem{Kurniawan2013-ti}
+\bibinfo{author}{Kurniawan, H.}, \bibinfo{author}{Maslov, A.~V.} \&
+  \bibinfo{author}{Pechenizkiy, M.}
+\newblock \bibinfo{title}{Stress detection from speech and galvanic skin
+  response signals}.
+\newblock In \emph{\bibinfo{booktitle}{Proceedings of the 26th {IEEE}
+  International Symposium on {Computer-Based} Medical Systems}},
+  \bibinfo{pages}{209--214} (\bibinfo{publisher}{IEEE}, \bibinfo{year}{2013}).
+
+\bibitem{Nepal_Ojashwi_and_Rk_Jha_and_Bk_Kapoor_undated-ni}
+\bibinfo{author}{{Nepal, Ojashwi and Rk, Jha and Bk, Kapoor}}.
+\newblock \bibinfo{title}{Galvanic skin response as a simple physiology lab
+  teaching {Tool-An} alternative indicator of sympathetic arousal}.
+\newblock
+  \bibinfo{howpublished}{\url{https://www.researchgate.net/publication/329655236_Galvanic_Skin_Response_as_a_Simple_Physiology_Lab_Teaching_Tool-An_Alternative_Indicator_of_Sympathetic_Arousal}}.
+\newblock \bibinfo{note}{Accessed: 2021-1-31}.
+
+\bibitem{noauthor_undated-ex}
+\bibinfo{title}{Ergonomic requirements for office work with visual display
+  terminals ({VDTs})}.
+\newblock
+  \bibinfo{howpublished}{\url{http://www.it.uu.se/edu/course/homepage/acsd/vt09/ISO9241part11.pdf}}.
+\newblock \bibinfo{note}{Accessed: 2021-1-31}.
+
+\bibitem{Scholtz_undated-ip}
+\bibinfo{author}{Scholtz, J.}
+\newblock \bibinfo{title}{Usability evaluation}.
+\newblock
+  \bibinfo{howpublished}{\url{https://pdfs.semanticscholar.org/8dec/cec5ace9235878e6aab06c3cd54f7b33a2ce.pdf}}.
+\newblock \bibinfo{note}{Accessed: 2021-1-31}.
+
+\bibitem{heuristics}
+\bibinfo{title}{10 usability heuristics for user interface design}.
+\newblock
+  \bibinfo{howpublished}{\url{https://www.nngroup.com/articles/ten-usability-heuristics/}}.
+\newblock \bibinfo{note}{Accessed: 2021-1-31}.
+
+\bibitem{Nielsen1994-un}
+\bibinfo{author}{Nielsen, J.}
+\newblock \bibinfo{title}{Enhancing the explanatory power of usability
+  heuristics}.
+\newblock In \emph{\bibinfo{booktitle}{Proceedings of the {SIGCHI} conference
+  on Human factors in computing systems celebrating interdependence - {CHI}
+  '94}} (\bibinfo{publisher}{ACM Press}, \bibinfo{address}{New York, New York,
+  USA}, \bibinfo{year}{1994}).
+
+\bibitem{Nielsen_undated-po}
+\bibinfo{author}{Nielsen, J.}
+\newblock \bibinfo{title}{How to conduct a heuristic evaluation}.
+\newblock
+  \bibinfo{howpublished}{\url{http://www.ingenieriasimple.com/usabilidad/HeuristicEvaluation.pdf}}.
+\newblock \bibinfo{note}{Accessed: 2021-1-31}.
+
+\bibitem{Gray1998-oo}
+\bibinfo{author}{Gray, W.~D.} \& \bibinfo{author}{Salzman, M.~C.}
+\newblock \bibinfo{title}{Damaged merchandise? a review of experiments that
+  compare usability evaluation methods}.
+\newblock \emph{\bibinfo{journal}{Hum.-comput. interact.}}
+  \textbf{\bibinfo{volume}{13}}, \bibinfo{pages}{203--261}
+  (\bibinfo{year}{1998}).
+
+\bibitem{Burgess2003-oy}
+\bibinfo{author}{Burgess, R.~G.}
+\newblock \emph{\bibinfo{title}{Field research: A sourcebook and field manual}}
+  (\bibinfo{publisher}{Routledge}, \bibinfo{address}{London, England},
+  \bibinfo{year}{2003}).
+
+\bibitem{Schatzman1972-zz}
+\bibinfo{author}{Schatzman, L.} \& \bibinfo{author}{Strauss, A.~L.}
+\newblock \emph{\bibinfo{title}{Field research strategies for a natural
+  society}} (\bibinfo{publisher}{Pearson}, \bibinfo{address}{Upper Saddle
+  River, NJ}, \bibinfo{year}{1972}), \bibinfo{edition}{1} edn.
+
+\bibitem{Millen_undated-et}
+\bibinfo{author}{Millen, D.~R.}
+\newblock \bibinfo{title}{Rapid ethnography}.
+\newblock \emph{\bibinfo{journal}{Proceedings of the conference on Designing
+  interactive systems processes, practices, methods, and techniques - DIS '00}}
+  .
+
+\bibitem{Pensabe-Rodriguez2020-qs}
+\bibinfo{author}{Pensabe-Rodriguez, A.}, \bibinfo{author}{Lopez-Dominguez, E.},
+  \bibinfo{author}{Hernandez-Velazquez, Y.}, \bibinfo{author}{Dominguez-Isidro,
+  S.} \& \bibinfo{author}{De-la Calleja, J.}
+\newblock \bibinfo{title}{Context-aware mobile learning system: Usability
+  assessment based on a field study}.
+\newblock \emph{\bibinfo{journal}{Telemat. inform.}}
+  \textbf{\bibinfo{volume}{48}}, \bibinfo{pages}{101346}
+  (\bibinfo{year}{2020}).
+
+\bibitem{Schuler2017-ka}
+\bibinfo{author}{Schuler, D.} \& \bibinfo{author}{Namioka, A.}
+\newblock \emph{\bibinfo{title}{Participatory design: Principles and
+  practices}} (\bibinfo{publisher}{Routledge}, \bibinfo{address}{London,
+  England}, \bibinfo{year}{2017}).
+
+\bibitem{fraenkel_wallen_hyun_2019}
+\bibinfo{author}{Fraenkel, J.~R.}, \bibinfo{author}{Wallen, N.~E.} \&
+  \bibinfo{author}{Hyun, H.~H.}
+\newblock \emph{\bibinfo{title}{How to design and evaluate research in
+  education}} (\bibinfo{publisher}{McGraw Hill}, \bibinfo{year}{2019}).
+
+\bibitem{gravetter_2016}
+\bibinfo{author}{Gravetter, F.~J.}
+\newblock \emph{\bibinfo{title}{Research methods for the behavioral sciences}}
+  (\bibinfo{publisher}{Cengage Learning}, \bibinfo{year}{2016}).
+
+\bibitem{hernandez-leo_villasclaras-fernandez}
+\bibinfo{author}{Hernandez~Leo, D.} \& \bibinfo{author}{Villasclaras, E.}
+\newblock \bibinfo{title}{Collage: A collaborative learning design editor based
+  on patterns}.
+\newblock \emph{\bibinfo{journal}{Educational Technology Society}}
+  \textbf{\bibinfo{volume}{9}}, \bibinfo{pages}{58–71}
+  (\bibinfo{year}{2016}).
+
+\bibitem{Manathunga2018-uu}
+\bibinfo{author}{Manathunga, K.} \& \bibinfo{author}{Hern{\'a}ndez-Leo, D.}
+\newblock \bibinfo{title}{Authoring and enactment of mobile pyramid-based
+  collaborative learning activities: Author and enact mobile {PyramidApp}
+  collaborations}.
+\newblock \emph{\bibinfo{journal}{Br. J. Educ. Technol.}}
+  \textbf{\bibinfo{volume}{49}}, \bibinfo{pages}{262--275}
+  (\bibinfo{year}{2018}).
+
+\bibitem{ILDE}
+\bibinfo{author}{Hernandez~Leo, D.} \& \bibinfo{author}{Villasclaras, E.}
+\newblock \bibinfo{title}{Integrated learning design environment ilde}.
+
+\bibitem{vandooren_de}
+\bibinfo{author}{van Dooren, M.}, \bibinfo{author}{de~Vries, J. G.~J.} \&
+  \bibinfo{author}{Janssen, J.~H.}
+\newblock \bibinfo{title}{Emotional sweating across the body: Comparing 16
+  different skin conductance measurement locations}.
+\newblock \emph{\bibinfo{journal}{Physiology Behavior}}
+  \textbf{\bibinfo{volume}{106}}, \bibinfo{pages}{298–304}
+  (\bibinfo{year}{2012}).
+
+\bibitem{shimmer}
+\bibinfo{author}{Shimmer}.
+\newblock \bibinfo{title}{Consensyspro}.
+
+\bibitem{zhang_johnson_patel_paige_kubose_2003}
+\bibinfo{author}{Zhang, J.}, \bibinfo{author}{Johnson, T.~R.},
+  \bibinfo{author}{Patel, V.~L.}, \bibinfo{author}{Paige, D.~L.} \&
+  \bibinfo{author}{Kubose, T.}
+\newblock \bibinfo{title}{Using usability heuristics to evaluate patient safety
+  of medical devices}.
+\newblock \emph{\bibinfo{journal}{Journal of Biomedical Informatics}}
+  \textbf{\bibinfo{volume}{36}}, \bibinfo{pages}{23–30}
+  (\bibinfo{year}{2003}).
+
+\end{thebibliography}

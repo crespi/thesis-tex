@@ -1,7 +1,7 @@
 \normallinespacing
 
 \chapter{State of The Art}
-\section{Education and technology}
+\section{Education and technology} \label{soa_education}
 This section introduces the main educational concepts and approaches used by teachers in this project. Among them, the incremental integration of technology with the classroom, and its challenges to researchers and teachers is a common thread.
 \subsection{Computer-Supported Collaborative Learning (CSCL)}
 Collaborative learning can take many forms depending on the teacher's approach, the pedagogical goal and the environment. At its core, CSCL is an approach to learning and sharing knowledge that stimulates the social nature of learning using diverse technological and pedagogical strategies \cite{Dillenbourg2009-jl}. As the name indicates, it relies on collaboration through technology to construct knowledge and solve problems. Group work is encouraged as it help students to engage with the learning materials \cite{Bonwell1991-sl}. The reliance on computers provides a wide range of tools and configurations that aid the teacher in working with this paradigm. Currently, collaborative learning is used all over the world and across all age levels of formal schooling \cite{Jeong2019-ul}.
@@ -26,7 +26,7 @@ Researchers and practitioners in the field of LD are increasingly focusing in th
 In the context of Learning Analytics, dashboards are defined as a single display that aggregates multiple visualisations of different indicators about learner(s), learning process(es) and/or learning context(s) \cite{Schwendimann2017-ci} As students engage in CSCL activities, information about their activity and performance can be presented to the teacher through a dashboard. Teachers can use this information to assess the progress of the activity to make pedagogical decisions for the class and to plan interactions with individual students \cite{Xhakaj_undated-xx}.\\
 Even though the development and analysis of teacher-facing dashboards is growing, there is little agreement on the best practices to design one. \cite{Schwendimann2017-ci} There is a lack of comparative studies among different dashboards (a type of teacher-facing visualization) or dashboard design options (in part due to the difficulty in achieving controlled yet relatively authentic conditions, but also due to a lack of widely-accepted, specific evaluative constructs, beyond general ones like usability or usefulness). \\
 By capturing, analysing and visualising data traces that represent students’ collaborative interactions in real-time, LA offers the possibility for teachers to obtain a deeper understanding of the process of collaboration and student activity engagement \cite{Jivet2018-nw}. 
-\section{Orchestration Load Measurements}
+\section{Orchestration Load Measurements} \label{soa_orchestration-load}
 This section introduces concepts that allow us to operationalise how teachers manage a class in real-time. Also, approaches for measurement are discussed.
 \subsection{Definitions}
 In the setting of a class, a teacher not only manages the core activities (designed by themselves for the class), but also keeps track of timing, student performance, and manages extraneous events \cite{Dillenbourg2013-kx}. \\
@@ -38,10 +38,10 @@ Electrodermal Activity (EDA) is an electrical phenomenon involving the sweat gla
 Even though it is proved that EDA varies with excitement or stress, a study on teacher stress when using technology found that at times EDA variances were observed at times where a teacher reported no stress \cite{Nepal_Ojashwi_and_Rk_Jha_and_Bk_Kapoor_undated-ni}. Also there were no EDA variances in situations where the subject reported being stressed \cite{Al-Fudail2008-zo}. This reveals that involuntary physical reactions like EDA should not be the only measurement taken to assess orchestration load. 
 Prieto et al proposed a mixed-method approach to the measurement of orchestration load \cite{Prieto2015-gd} that gathers qualitative and quantitative data from indirect measures (EDA) and self-perception measures (Questionnaires). Gathered data is then triangulated to understand how the orchestration process takes place. This approach allows to have a multi-perspective view of the orchestration load a teacher experiences during a particular context.\\
 This project aims to look for the correlation of orchestration load of a teacher using PyramidApp with different aspects of the interface. To do this, the orchestration load of teachers will be observed from different perspectives in a mixed-method approach.
-\section{Usability Evaluations and Field Research}
+\section{Usability Evaluations and Field Research} \label{soa_usability}
 The interface's easiness of use (usability) needs to be operationalized so that we can know how variations in orchestration load are related to it. This section introduces the basic concepts needed to operationalize usability, and introduces methods for measurement.
 \subsection{Definitions}
-The ISO 9241-11 standard defines usability as the capability of a product to be used by certain users to achieve specific objectives with effectiveness, efficiency, and satisfaction within a specific use context \cite{noauthor_undated-ex}. Usability is an important consideration in the design of products because it is concerned with the extent to which the users of products are able to work effectively, efficiently and with satisfaction. If a class is working using CSCL practices, the presence of digital products is necessary for the main activities in the classroom to take place. A tool that doesn't simplify tasks could add to the workload a teacher already has. Thus, usability of the selected software becomes of critical importance. Though this concept (a quality of all objects we use) is inherently subjective, it can be measured and evaluated using a variety of methods.
+The ISO 9241-11 standard defines usability as the capability of a product to be used by certain users to achieve specific objectives with effectiveness, efficiency, and satisfaction within a specific use context \cite{noauthor_undated-ex}. Usability is an important consideration in the design of products because it is concerned with the extent to which the users of products are able to work effectively, efficiently and with satisfaction. If a class is working using CSCL practices, the presence of digital products is necessary for the main activities in the classroom to take place. A tool that does not simplify tasks could add to the workload a teacher already has. Usability of the selected software becomes of critical importance. Though this concept (a quality of all objects we use) is inherently subjective, it can be measured and evaluated using a variety of methods.
 \subsection{Evaluation Methods}
 An usability evaluation method is a procedure composed by a set of activities for collecting data of users interacting with a software. \cite{Fernandez2011-ln}. As internet became part of our lives, the challenge of developing more user-friendly interfaces led to the emergence of methods, techniques and tools through which usability can be assessed.
 Usability evaluation frameworks are under development since 1971 \cite{Scholtz_undated-ip}. Each framework uses a particular methodology, and adapts itself to different resources, research goals, and technological environments, giving HCI specialists a broad range of options to pick from when analysing an interface. Some of these frameworks include usability testing, heuristic evaluations, rapid prototyping and cognitive walkthroughs.
@@ -82,7 +82,7 @@ Expert-based methods are performed by HCI experts by analysing usability aspects
 When using this method, it is recommended to aggregate findings from different evaluators, since each evaluator is likely to detect different usability problems. Nielsen \cite{Nielsen1994-un} recommends to involve between three and five evaluators. In a study, he analysed the findings from multiple evaluators, looking to understand the payoff of using multiple evaluators. Figure 2 shows the proportion of usability issues detected by evaluators.
 \begin{figure}[!h]
     \includegraphics[clip,width=\columnwidth]{Figures/evaluators.png}% 
-\caption{Diagram of pyramid activity}
+\caption{Proportion of usability problems found by number of evaluators}
 \label{fig:timeseries}
 \cite{Nielsen_undated-po}
 \end{figure}\\
@@ -98,11 +98,6 @@ The importance of ethnographic research in design has been described by Blomberg
 For this project, representative users are be teachers who are already integrating CSCL practices into their teaching and that would be interested in using PyramidApp in their classes. Furthermore, they would need to be located near the researchers, since measurements for this experiments will be done in person. We estimate that sourcing for representative users with this conditions would imply costs that are out of reach for the context of this project. For these reasons, user-centered methodologies will not be applied. Instead, the usability of PyramidApp will be assessed using a combination of expert-based methodologies and recordings from field research.
 \section{Closing remarks on the state of the art}
 This section has presented the main concepts methodologies that will be part of the experimental setup of the project. By triangulating information of the subjects' EDA, self-perception measures and usability assessments we will be able to elucidate the relationship of orchestration load and usability factors in PyramidApp.
-
-%\section{Objectives}
-%\section{Structure of the Report}
-
-
 \newpage
 
 

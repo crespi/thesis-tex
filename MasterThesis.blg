@@ -1,0 +1,49 @@
+This is BibTeX, Version 0.99d (TeX Live 2020)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: MasterThesis.aux
+The style file: naturemag.bst
+Database file #1: bibliography.bib
+Warning--empty journal in Dillenbourg2011-zr
+Warning--empty year in Millen_undated-et
+You've used 53 entries,
+            2348 wiz_defined-function locations,
+            1309 strings with 18954 characters,
+and the built_in function-call counts, 19294 in all, are:
+= -- 1304
+> -- 458
+< -- 0
++ -- 230
+- -- 114
+* -- 2260
+:= -- 2028
+add.period$ -- 155
+call.type$ -- 53
+change.case$ -- 71
+chr.to.int$ -- 0
+cite$ -- 55
+duplicate$ -- 1751
+empty$ -- 1942
+format.name$ -- 151
+if$ -- 3960
+int.to.chr$ -- 0
+int.to.str$ -- 53
+missing$ -- 410
+newline$ -- 269
+num.names$ -- 51
+pop$ -- 468
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 379
+stack$ -- 0
+substring$ -- 746
+swap$ -- 1669
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 2
+while$ -- 107
+width$ -- 55
+write$ -- 552
+(There were 2 warnings)
