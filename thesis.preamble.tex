@@ -6,6 +6,7 @@
 \usepackage{blindtext}
 \usepackage{float}
 
+
 \input{blocked.sty}
 \input{uhead.sty}
 \input{boxit.sty}
@@ -16,6 +17,11 @@
 \newcommand{\mediumlinespacing}{\renewcommand{\baselinestretch}{1.2} \normalsize}
 \newcommand{\narrowlinespacing}{\renewcommand{\baselinestretch}{1.0} \normalsize}
 
+\setcounter{tocdepth}{1}
 \newtheorem{definition}{Definition}[chapter]
 \newtheorem{theorem}{Theorem}[chapter]
+\cftsetindents{section}{0in}{0.5in}
+\cftsetindents{subsection}{0in}{0.5in}
+\cftsetindents{subsubsection}{0in}{0.5in}
+\cftsetindents{paragraph}{0in}{0.5in}
 

@@ -7,30 +7,30 @@
 
 \linespread{1.5}
 \def\submitdate#1{\gdef\@submitdate{#1}}
+\def\supervisor#1{\gdef\@supervisor{#1}}
+\def\cosupervisor#1{\gdef\@cosupervisor{#1}}
+\def\researchgroup#1{\gdef\@researchgroup{#1}}
 
 \def\maketitle{
   % Title
   \begin{titlepage}{
     \vspace*{2\baselineskip} %Empty Lines
-    {\fontsize{17.28}{16.8}\selectfont Master thesis on Computational Biomedical Engineering}\\
+    {\fontsize{17.28}{16.8}\selectfont Master thesis on Cognitive Systems and Interactive Media}\\
      {\fontsize{14}{16.8}\selectfont Universitat Pompeu Fabra}\\
-
     \rm
     \vspace*{3\baselineskip} %Empty Lines
-    \titlelinespacing
-     \@title \par
-     \normallinespacing
+     \bf \fontsize{24.88}{17.5}\selectfont  \@title \par
   }
   \vskip 0.3in
   \par
-  {\@author}
-  
+  {\fontsize{14}{27}\selectfont  \@author}
+
   \vskip 0.20in
-  \fontsize{14}{16.8}\selectfont \textbf{Supervisor:} Dr. Mario Ceresa \\
-  \fontsize{14}{16.8}\selectfont \textbf{Co-Supervisor:} Prof. Miguel \' Angel Gonz\' alez Ballester \\
-  
+  \fontsize{14}{16.8}\selectfont \textbf{Supervisor:}   \@supervisor \\
+  \fontsize{14}{16.8}\selectfont \textbf{Co-Supervisor:}  \@cosupervisor \\
+  \fontsize{14}{16.8}\selectfont \textbf{Research Group:}  \@researchgroup \\
    \vspace*{3\baselineskip} %Empty Lines
-    \@submitdate \\
+    \fontsize{14}{27}\selectfont  \@submitdate \\
     \vspace{ 0.7in}
     \includegraphics[width=8cm]{Figures/LogoPompeuFabra}\\[.5cm]
   \vfil
@@ -64,6 +64,7 @@
 }
 \def\endabstract{
   \par
+   \cleardoublepage
 }
 
 \newenvironment{acknowledgement}{
@@ -77,6 +78,7 @@
 }{\clearpage}
 \def\endacknowledgement{
   \par
+    \cleardoublepage
 }
 
 \newenvironment{dedication}{
@@ -90,13 +92,14 @@
 }{\clearpage}
 \def\enddedication{
   \par
+  \cleardoublepage
 }
 
 \def\preface{
     \pagenumbering{gobble}
     \pagestyle{plain}
     \doublespacing
-     \setcounter{tocdepth}{2}
+     \setcounter{tocdepth}{1}
     \tableofcontents
 }
 
@@ -107,8 +110,6 @@
     \pagenumbering{arabic}
     \singlespacing  
     \setlength{\cftbeforesecskip}{10pt}
-
-    
 
     \pagestyle{plain}
     \clearpage
